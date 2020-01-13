@@ -14,4 +14,4 @@ An alignment with the ISO 19100 models is now provided through
 An alignment with [W3C OWL-Time](https://www.w3.org/TR/owl-time/) and [W3C SOSA/SSN](https://www.w3.org/TR/vocab-ssn/) is provided through 
 [thors/w3c.ttl](./rdf/thors/w3c.ttl) and [gts/w3c.ttl](./rdf/gts/w3c.ttl)
 
-**NOTE:** this repository is a subtree forked from https://github.com/GeoscienceAustralia/geosciml.org/tree/master/resource/static/ontology/timescale
+**NOTE:** this repository is now being maintained at https://github.com/CGI-IUGS/timescale-ont 
